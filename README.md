@@ -1,0 +1,1 @@
+# SparkStreaming_DirectKafka_example
